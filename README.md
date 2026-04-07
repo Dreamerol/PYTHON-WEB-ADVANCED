@@ -59,11 +59,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
 
 
 
