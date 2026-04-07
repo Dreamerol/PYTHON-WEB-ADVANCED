@@ -68,6 +68,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+---
+
 ## 📌 Project Overview
 
 This repository represents a **complete journey through modern Python web development**, focused on building real-world applications with clean architecture and scalable design.
