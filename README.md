@@ -13,32 +13,6 @@
 <img src="https://github.com/Dreamerol/Dreamerol/blob/9e90ca7c26417e31d60a28759b73c4b3499c3add/PYTHON.jpg" alt="Python Advanced Project" width="100%">
 
 
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
-<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
-<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
-
-</p>
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
 
 ---
 
@@ -220,6 +194,12 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 ---
 
