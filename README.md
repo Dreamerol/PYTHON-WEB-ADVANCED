@@ -195,6 +195,14 @@ This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
 
+---
+
+<p align="center">
+  <b><i><span style="font-size: 50px;">
+   🔥 Built with passion for Python & Web Development
+  </span></i></b>
+</p>
+
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
@@ -216,13 +224,7 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 </p>
 
----
 
-<p align="center">
-  <b><i><span style="font-size: 50px;">
-   🔥 Built with passion for Python & Web Development
-  </span></i></b>
-</p>
 
 
 
