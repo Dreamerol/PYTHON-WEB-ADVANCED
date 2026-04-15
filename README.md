@@ -195,7 +195,6 @@ This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
 
----
 
 <p align="center">
   <b><i><span style="font-size: 50px;">
