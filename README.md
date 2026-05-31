@@ -10,7 +10,7 @@ Building scalable backend systems, clean architecture & web applications
 ---
 
 <!-- Картинка на 100% ширина -->
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/9e90ca7c26417e31d60a28759b73c4b3499c3add/PYTHON.jpg" alt="Python Advanced Project" width="100%">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" alt="Python Advanced Project" width="100%">
 
 
 
