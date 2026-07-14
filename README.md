@@ -216,6 +216,10 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 ---
 
+
+<br>
+
+
 <h2 align="center">
   <b><span style="font-size: 50px;">
    🔥 Built with passion for Python & Web Development
@@ -223,10 +227,6 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 </p>
 
 
-
-
-
-<br>
 
 
 
