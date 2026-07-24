@@ -89,27 +89,6 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 ✔️ Practical database integration
 
 
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
-<img src="https://img.shields.io/badge/Django-Framework-245D8C?style=for-the-badge&logo=django&logoColor=FFE873" />
-
-<img src="https://img.shields.io/badge/Flask-Lightweight-3776AB?style=for-the-badge&logo=flask&logoColor=FFD43B" />
-
-<img src="https://img.shields.io/badge/SQL-Advanced-245D8C?style=for-the-badge&logo=postgresql&logoColor=FFD43B" />
-
-<img src="https://img.shields.io/badge/HTML5-Markup-FFD43B?style=for-the-badge&logo=html5&logoColor=1E3A5F" />
-
-<img src="https://img.shields.io/badge/CSS3-Styling-FFE873?style=for-the-badge&logo=css3&logoColor=1E3A5F" />
-
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Status-Production_Ready-3776AB?style=for-the-badge&logo=github&logoColor=FFD43B" />
-
-</p>
 
 ---
 
@@ -140,6 +119,37 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
+
+
+---
+
+
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+
+<img src="https://img.shields.io/badge/Django-Framework-245D8C?style=for-the-badge&logo=django&logoColor=FFE873" />
+
+<img src="https://img.shields.io/badge/Flask-Lightweight-3776AB?style=for-the-badge&logo=flask&logoColor=FFD43B" />
+
+<img src="https://img.shields.io/badge/SQL-Advanced-245D8C?style=for-the-badge&logo=postgresql&logoColor=FFD43B" />
+
+<img src="https://img.shields.io/badge/HTML5-Markup-FFD43B?style=for-the-badge&logo=html5&logoColor=1E3A5F" />
+
+<img src="https://img.shields.io/badge/CSS3-Styling-FFE873?style=for-the-badge&logo=css3&logoColor=1E3A5F" />
+
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Status-Production_Ready-3776AB?style=for-the-badge&logo=github&logoColor=FFD43B" />
+
+</p>
+
+
+
+
+
 
 
 ---
