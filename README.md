@@ -13,8 +13,15 @@ Building scalable backend systems, clean architecture & web applications
 
 ---
 
-<!-- Картинка на 100% ширина -->
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg" alt="Python Advanced Project" width="100%">
+<div align="center">
+  <a href="https://github.com/Dreamerol">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg"
+      alt="Mihaela Koseva - Python Web Development, Backend Engineering & Advanced Python Projects"
+      width="100%"
+    />
+  </a>
+</div>
 
 
 
@@ -200,7 +207,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
