@@ -21,7 +21,7 @@ Building scalable backend systems, clean architecture & web applications
   <a href="https://github.com/Dreamerol">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg"
-      alt="Mihaela Koseva - Python Web Development, Backend Engineering & Advanced Python Projects"
+      alt="Mihaela Koseva, Михаела Косева - Python, Backend Engineering, Software Engineer, AI Engineer, Applied Machine Learning, Data Science"
       width="100%"
     />
   </a>
