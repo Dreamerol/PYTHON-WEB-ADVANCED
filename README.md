@@ -56,12 +56,18 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 <p align="center">
 
 🔥 Backend Development
-🧩 Object-Oriented Programming
-🗄️ Database Design & Queries
-🌐 Full Web Architecture
-🔐 Authentication Systems
-⚙️ Clean Code Practices
-🚀 Scalable Application Design
+
+🧩 Object-Oriented Design
+
+🗄 Database Modeling
+
+🌐 RESTful Web Applications
+
+🔐 Authentication & Authorization
+
+⚙ Clean Architecture
+
+🚀 Scalable Software Design
 
 </p>
 
