@@ -18,14 +18,16 @@ Building scalable backend systems, clean architecture & web applications
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol">
+  <a href="https://github.com/Dreamerol/CARDFOLIO">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg"
-      alt="Mihaela Koseva, Михаела Косева - Python, Backend Engineering, Software Engineer, AI Engineer, Applied Machine Learning, Data Science"
+      alt="Mihaela Koseva (Михаела Косева) - Python Software Engineer, AI Engineer, Backend Development, Applied Machine Learning, Data Science Portfolio"
       width="100%"
     />
   </a>
 </div>
+
+
 
 
 
@@ -216,11 +218,10 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva"
+      alt="Mihaela Koseva (Михаела Косева) - Python Software Engineer, AI Engineer, Backend Engineering, Applied Machine Learning, Data Science Portfolio"
     />
   </a>
 </div>
-
 
 
 
