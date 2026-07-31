@@ -15,11 +15,6 @@ Building scalable backend systems, clean architecture & web applications
 
 
 
-<br>
-
-
-
-
 ---
 
 
