@@ -9,6 +9,7 @@
    <b><i><span style="font-size: 150px;">
 Building scalable backend systems, clean architecture & web applications
   </span></i></b>
+  
 </h2>
 
 
@@ -92,6 +93,8 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -107,6 +110,8 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 
 ---
+
+
 
 ## 🧪 What This Repository Proves
 
@@ -142,11 +147,14 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 ---
 
+
+
 ## 🚀 Final Statement
 
 This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
+
 
 
 ---
@@ -173,8 +181,6 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 <img src="https://img.shields.io/badge/Status-Production_Ready-3776AB?style=for-the-badge&logo=github&logoColor=FFD43B" />
 
 </p>
-
-
 
 
 
@@ -216,8 +222,6 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 
 
-
-
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
@@ -247,10 +251,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
-
-
-
 <br><br><br>
 
 
@@ -267,6 +267,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
     />
   </a>
 </div>
+
 
 
 
