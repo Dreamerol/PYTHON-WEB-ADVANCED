@@ -19,12 +19,11 @@ Building scalable backend systems, clean architecture & web applications
 
 
 
-
 <div align="center">
   <a href="https://github.com/Dreamerol/CARDFOLIO">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg"
-      alt="Mihaela Koseva (Михаела Косева) - Python Software Engineer, AI Engineer, Backend Development, Applied Machine Learning, Data Science Portfolio"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
       width="100%"
     />
   </a>
@@ -35,6 +34,8 @@ Building scalable backend systems, clean architecture & web applications
 
 
 ---
+
+
 
 
 
@@ -58,6 +59,8 @@ Building scalable backend systems, clean architecture & web applications
 <img src="https://img.shields.io/badge/Status-Production_Ready-3776AB?style=for-the-badge&logo=github&logoColor=FFD43B" />
 
 </p>
+
+
 
 
 
@@ -255,18 +258,15 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
-
 <div align="center">
   <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="Mihaela Koseva (Михаела Косева) - Python Software Engineer, AI Engineer, Backend Engineering, Applied Machine Learning, Data Science Portfolio"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
     />
   </a>
 </div>
-
 
 
 
