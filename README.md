@@ -169,7 +169,13 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 ---
 
 
+
+
+
 <br>
+
+
+
 
 
 <h2 align="center">
@@ -225,7 +231,12 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br>
+
+
+
+<br><br><br>
+
+
 
 
 
@@ -247,7 +258,9 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br>
+<br><br><br>
+
+
 
 
 
