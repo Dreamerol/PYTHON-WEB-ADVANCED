@@ -193,7 +193,7 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -206,6 +206,16 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
    🔥 Built with passion for Python & Web Development
   </span></h2></b>
 </p>
+
+
+
+
+
+
+
+
+<br>
+<br>
 
 
 
@@ -250,7 +260,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
 <br><br><br>
 
 
@@ -258,8 +267,9 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
 <div align="center">
-  <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
@@ -273,7 +283,21 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
+
+
 <br><br><br>
+
+
+
+
+
+
+
+
+---
+
+
 
 
 
@@ -285,19 +309,15 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <td>
 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" 
-height="130"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
 
 
 <td>
-<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" 
-height="130"
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
@@ -305,9 +325,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" 
-height="130"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
@@ -315,9 +333,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" 
-height="130"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
@@ -325,9 +341,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" 
-height="130"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
 </a>
 </td>
@@ -339,9 +353,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<br><br><br><br><br>
 
 
-<br><br><br><br>
+
 
 
 
