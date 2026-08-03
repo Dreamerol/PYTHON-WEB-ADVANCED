@@ -162,38 +162,6 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 
 
-<br><br>
-
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/mihaela-koseva-tech%20stack.png"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
-    width="100%"/>
-
-</a>
-
-</div>
-
-
-
-
-
-
-<br><br>
-
-
-
-
----
 
 
 
