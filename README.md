@@ -15,7 +15,6 @@
 
 
 
-
  <h2 align="center">
    <b><i><span style="font-size: 150px;">
 Building scalable backend systems, clean architecture & web applications
