@@ -1,9 +1,20 @@
 
 
 
+<h1 align="center">
+  
+  <a
+    href="https://github.com/Dreamerol/PORTFOLIO"
+    title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia"
+    aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia">
+    🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 & 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗
+  </a>
+</h1>
 
 
-<h1 align="center">🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 & 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗</h1>
+
+
+
 
  <h2 align="center">
    <b><i><span style="font-size: 150px;">
