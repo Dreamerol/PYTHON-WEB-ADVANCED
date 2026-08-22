@@ -211,12 +211,9 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
-
-
-
+<h2 align="center">⭐ Feel free to explore the repos and star if you find them interesting</h2>
 
 
 
