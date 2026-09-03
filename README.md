@@ -5,7 +5,7 @@
 
   
   <a
-    href="https://github.com/Dreamerol/PORTFOLIO"
+    href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/"
     title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia"
     aria-label="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет), Sofia">
     🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 & 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗
@@ -29,7 +29,7 @@ Building scalable backend systems, clean architecture & web applications
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/CARDFOLIO">
+  <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PYTHON.jpg"
       alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
