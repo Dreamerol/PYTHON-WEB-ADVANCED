@@ -215,6 +215,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+
+<div align="left">
 
 
 
@@ -323,7 +328,9 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 
 
 
+</div>
 
+</div>
 
 
 
